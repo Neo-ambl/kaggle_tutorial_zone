@@ -1,0 +1,13 @@
+# 仮想環境
+.venv/
+
+# Jupyterの一時ファイル
+.ipynb_checkpoints/
+__pycache__/
+
+# 大容量データ（GitHubの容量制限対策）
+data/raw/
+data/processed/
+
+# 学習済みモデル
+model/
